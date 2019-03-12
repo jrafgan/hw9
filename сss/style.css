@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300|Raleway:600|Roboto+Slab:700');
+								'PFDinTextCondPro' Medium, Regular,
+
+
+FontAwesome
+
+
+body{
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
+	background: #f3f2f1;
+	font-size: 16px;
+	min-width: 990px;
+	margin: 0;
+}
+.container{
+	width: 990px;
+	margin: 0 auto;
+}
+
+h1{
+	font-family: 'Raleway', sans-serif;
+	margin: 0 0 0 26px;
+	font-size: 30px;
+
+}
+img{
+	float: left;
+	margin: 14px 23px 0 0;
+}
+ul{
+	margin: 18px 0 113px 0;
+	padding-left: 50px;
+	display: inline-block;
+	list-style:none;
+}
+li{
+	padding-left: 50px;
+	line-height: 2;
+	position: relative;
+	background: url(../images/ic-arrow.jpg) 0 3px no-repeat;
+}
+li::before{
+	content: "";
+	width: 23px;
+	height: 23px;
+	position: absolute;
+
+}
+p{
+	padding: 11px 0 0 0;
+	line-height: 1.7;
+}
+a{
+	text-decoration: none;
+}
+.line{
+	border: 1px solid #e0e0e0;
+}
+.boxes{
+	width: 303px;
+	height: auto;
+	border: 1px solid #dfdfdf;
+	border-radius: 10px;
+	margin: 8px auto 20px auto;
+}
+.line1{
+	border: 1px solid #d0d0d0;
+	height: 0;
+	width: 254px;
+	margin: 0 auto;
+}
+h3{
+	font-size: 18px;
+	padding: 1px 0 0 33px;
+	background: url(../images/ic-vacancy.png) 1px 0 no-repeat;
+	font-family: 'Roboto Slab', serif;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+h3::before{
+	content: "";
+	width: 23px;
+	height: 24px;
+
+}
+.boxes1{
+	width: 253px;
+	margin: 0 auto;
+	font-style: 'Tahoma', sans-serif;
+}
+.boxes1 p{
+	font-size: 12px;
+	padding: 0 0 0 20px;
+}
+h4{
+	font-size: 14px;
+	text-decoration: underline;
+	padding-left: 19px;
+	background: url(../images/ic-check.png) 0 3px no-repeat;
+}
+h4::before{
+	content: "";
+	width: 11px;
+	height: 11px;
+}
+.box2 a{
+color: #1f1f1f;
+}
+.container1{
+	width: 408px;
+	height: 350px;
+	margin: 0 auto;
+}
+.box-main{
+width: 378px;
+height: 350px;
+margin: 0;
+}
+h5{
+	display: block;
+	font-family: 'Awesome:400', sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	padding: 0 0 10px 49px;
+	margin: 0;
+}
+.box-main ul{
+	margin: 0;
+}
+.box-main li{
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 2.36;
+	background: url(../images/ic-arrow.png) 0 11px no-repeat;
+	padding-left: 23px;
+}
+.box-main li:hover{
+	background: #485460 url(../images/ic-arrow.png) 3px 14px no-repeat;
+	margin: 3px auto auto 3px;
+}
+.container2{
+	height: 375px;
+	width: 469px;
+	margin: 0 auto;
+}
+.container2 p{
+	display: inline-block;
+	font-weight: bold;
+	font-size: 24px;
+	font-family: 'PFDinTextCondPro:500';
+	margin: 55px auto 0 120px;
+}
+.box-contact{
+	width: 270px;
+	height: 192px;
+	margin: 0 auto;
+	border: 1px solid #dedede;
+	font-family: 'PFDinTextCondPro:400';
+
+}
+dt{
+	display: inline-block;
+	float: left;
+	padding: 0 0 0 20px;
+}
+dd{
+	display: block;
+	padding: 0 0 0 45px;
+}
+.phones{
+	margin-top: 21px;
+}
+.icon {
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	margin: 0;
+	padding: 0;
+	
+}
+.inst{
+	background: url(../images/ic-inst.jpg) 0 0 no-repeat;
+}
+.gplus{
+	background: url(../images/ic-gplus.jpg) 0 0 no-repeat;
+}
+.fb{
+	background: url(../images/ic-fb.jpg) 0 0 no-repeat;
+}
+.vk{
+	background: url(../images/ic-vk.jpg) 0 0 no-repeat;
+}
+.twt{
+	background: url(../images/ic-twt.jpg) 0 0 no-repeat;
+}
+
+
+
+
+
